@@ -33,3 +33,23 @@ numero_2 = int(input())
 # División
 
 # Multiplicación
+print ("El primer numero ingresado es :", numero_1)
+print ("El segundo numero ingresado es :", numero_2)
+
+suma = numero_1 + numero_2
+
+resta = numero_1 - numero_2
+
+division = numero_1 / numero_2
+
+multiplicacion = numero_1 * numero_2
+
+print ("el resultado de sumar", numero_1, "y", numero_2, "es", suma)
+
+print ("el resultadoi de restar", numero_1, "y", numero_2, "es", resta)
+
+print ("El resultado de dividir", numero_1, "entre", numero_2, "es", division)
+
+print ("El resultado de multiplicar", numero_1, "y",  numero_2, "es", multiplicacion)
+
+#ezequiel ramirez
